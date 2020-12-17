@@ -1,2 +1,2 @@
 # horiseon
-Website that provides accessibility for SEO Company Horiseon.
+Horiseon SEO Company that strives to provide acessibility
